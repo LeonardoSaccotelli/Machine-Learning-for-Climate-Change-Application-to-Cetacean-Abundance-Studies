@@ -15,7 +15,7 @@ dataset = temporalSTG;
 
 % Seleziono il prefisso della feature di cui voglio 
 % analizzare l'evoluzione nel tempo
-prefixFeature = 'phosp'; 
+prefixFeature = 'temp'; 
 
 % Rimuovo tutte le feature diverse da quelle da analizzare, ad eccezione
 % della data di avvistamento
